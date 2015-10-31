@@ -1,0 +1,21 @@
+field_auto_increment,field_integer,field_varchar,field_float,field_bool,field_select_int,field_select_varchar,field_fixed_varchar,field_fixed_int,field_date
+1,63,amzexnfItBjiSDqK,8.851633836312399,False,10,value2,fixed_value,10,2010-01-03 21:14
+2,49,pTjZzidTAK,17.62975501378897,False,30,value3,fixed_value,10,2010-11-26 10:01
+3,26,RPjRKCLgNUdfvfMQtbLDOIV,1.9072448743916035,False,30,value1,fixed_value,10,2012-02-03 05:53
+4,75,IAjvTdzLBH,70.81845919253911,False,20,value3,fixed_value,10,2011-01-29 20:40
+5,70,nAKMDSnaUvnUabdsXzbHNSEu,7.578720288265289,False,10,value3,fixed_value,10,2010-03-04 00:12
+6,8,xlaATPgIuqkTsbJgI,1.476742685021417,True,30,value2,fixed_value,10,2010-03-05 21:01
+7,96,ZZxcaKUgjzGHQPcOOf,16.386767144425853,True,20,value3,fixed_value,10,2013-07-14 13:06
+8,7,upfsZnVhvsNSkxTA,99.7658334226715,False,10,value1,fixed_value,10,2011-03-17 01:01
+9,10,FNmdeQRqFganEf,88.37857067547935,False,20,value3,fixed_value,10,2010-01-03 15:14
+10,81,gFAIjjxcRHqpcrUPvUSbMNozNKEuX,91.91303882271735,False,30,value1,fixed_value,10,2012-10-11 05:07
+11,71,RXdoiHQEvxjcBVl,58.227988053516555,False,20,value2,fixed_value,10,2014-11-01 14:58
+12,79,ifxmdSvzUoPldiJCDabXHQqqor,85.36858306619789,False,20,value2,fixed_value,10,2011-02-20 19:54
+13,27,zTJRXJhfMlRaeTrNCZ,19.545063383502466,False,30,value1,fixed_value,10,2013-07-30 05:46
+14,79,THSnSfFMOoQSIdITHtkKtVrEnk,63.95461527513829,True,20,value2,fixed_value,10,2012-05-06 18:57
+15,75,tRubCOtgoCs,24.82098043273477,False,20,value1,fixed_value,10,2012-11-30 09:34
+16,53,lIpdvOIdzsujbjHfzezhmlRGzXpjhT,71.12288461017245,True,20,value2,fixed_value,10,2010-04-20 20:05
+17,18,idaxUepiTPFgSImpnEbgChZdtEzDc,79.2249918618006,True,30,value1,fixed_value,10,2012-02-02 14:06
+18,2,UqjgLPMbVpufCoKLgMXcNG,69.64236242804934,True,20,value1,fixed_value,10,2012-09-23 11:22
+19,53,JPzcaznKNEZlRgzOTdsBh,53.5753009372106,True,20,value2,fixed_value,10,2010-09-20 20:49
+20,49,cdoHzxGhILrCUJFIi,83.2947264089901,False,30,value1,fixed_value,10,2014-05-15 05:42

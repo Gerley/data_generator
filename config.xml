@@ -1,0 +1,22 @@
+<xml>
+    <table name="table_name" records="20">
+        <field name="field_auto_increment" type="auto_increment" min_val="1"/>
+        <field name="field_integer" type="integer" min_val="1" max_val="100"/>
+        <field name="field_varchar" type="varchar" min_len="10" max_len="30"/>
+        <field name="field_float" type="float" min_val="1" max_val="100"/>
+        <field name="field_bool" type="bool"/>
+        <field name="field_select_int" type="select" type_value="integer">
+            <option value="10"/>
+            <option value="20"/>
+            <option value="30"/>
+        </field>
+        <field name="field_select_varchar" type="select" type_value="varchar">
+            <option value="value1"/>
+            <option value="value2"/>
+            <option value="value3"/>
+        </field>
+        <field name="field_fixed_varchar" type="fixed" type_value="varchar" value="fixed_value"/>
+        <field name="field_fixed_int" type="fixed" type_value="integer" value="10"/>
+        <field name="field_date" type="date" format="%Y-%m-%d %H:%M" min_val="2010-01-01 00:00" max_val="2015-01-01 23:59"/>
+    </table>
+</xml>
