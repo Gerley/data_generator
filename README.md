@@ -3,6 +3,8 @@ It is a simple random data generator to csv written in python.
 
 You set table's the attributes in a xml config file and the data_generator generates the data this table.
 
+Note: this script were tested with python 2.7.
+
 # Download
 Just clone this git repository: git clone `https://github.com/gerley/data_generator.git`
 
@@ -66,3 +68,17 @@ field_auto_increment,field_integer,field_varchar,field_float,field_bool,field_se
 19,5,DKufgJQshrvHUMNVxlFpaMb,89.51408648943622,True,20,value3,fixed_value,10,2011-10-08 17:45
 20,97,zBVZsdgERUhAiMRJRpsdJhoGo,98.42960829849486,True,10,value1,fixed_value,10,2010-01-06 18:53
 ```
+
+# Usage
+```bash
+data_generator.py [options]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUTFILE, --ifile INPUTFILE
+                        input config file
+  -o OUTPUTPATH, --opath OUTPUTPATH
+                        output path folder
+  -v, --version         show program's version number and exit
+```
+
