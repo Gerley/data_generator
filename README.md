@@ -71,7 +71,7 @@ field_auto_increment,field_integer,field_varchar,field_float,field_bool,field_se
 
 # Usage
 ```bash
-data_generator.py [options]
+python data_generator.py [options]
 
 optional arguments:
   -h, --help            show this help message and exit
